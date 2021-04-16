@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "c:\\Users\\aC-Ma\\Documents\\PythonProjects\\entornos\\usersdj\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\Users\\aC-Ma\\Documents\\PythonProjects\\entornos\\usersdj\\Scripts\\python.exe",
+    "python.formatting.provider": "yapf"
 }
